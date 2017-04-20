@@ -1,10 +1,6 @@
-//
 //  PHoneBook.m
-//  商信
-//
 //  Created by liyunfei on 16/6/6.
 //  Copyright © 2016年 liyunfei. All rights reserved.
-//
 
 #import "PBClass.h"
 #import "NSString+regX.h"

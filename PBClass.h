@@ -1,6 +1,5 @@
 //
 //  PHoneBook.h
-//  商信
 //  手机通讯录管理类
 //  Created by liyunfei on 16/6/6.
 //  Copyright © 2016年 liyunfei. All rights reserved.
